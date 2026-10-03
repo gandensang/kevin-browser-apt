@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: stabil
+Components: main
+Date: Sat, 03 Oct 2026 02:31:46 +0000
+Label: Kevin Browser
+Origin: Kevin Browser
+Suite: stabil
+MD5Sum:
+ de25fc87c27218deb6e29b50e3048b7c             1016 main/binary-amd64/Packages
+ 3fcc8ffc36a7b2a905811889e56bcdc4              682 main/binary-amd64/Packages.gz
+SHA1:
+ 32f8a8fc6565c3d59cffa809b4b29ef26b28d396             1016 main/binary-amd64/Packages
+ a450c7de9fa19c790d68710d7163fd4207087c33              682 main/binary-amd64/Packages.gz
+SHA256:
+ 69aa44eab579c23beefbd9f1ef8e5b1b432f39a0b5b7b41ce399530d3ba1a737             1016 main/binary-amd64/Packages
+ 51a4ee18cd99137e304be4334bde29a028017adf04db23d725141d496ed7f6dc              682 main/binary-amd64/Packages.gz
+SHA512:
+ 3db2d332cd7a7b67a1f0f729e16a6599b9d1fc3e0321d81fdaa1f3576e27b210f7bb8c3fabfd5fc1ed37d2e5a37ba08bddfc3e1b0b77e78755c86b727cdc0275             1016 main/binary-amd64/Packages
+ b7ba5047a76f865d3f67aceaf6ad3dae6d28b79fede67ce14c15ae3ac93f9af65d012f835cd80d1cc877aabb6fe42df0c50801a44f9020d2fe872ee25e6f280c              682 main/binary-amd64/Packages.gz

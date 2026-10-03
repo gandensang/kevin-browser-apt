@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kevin Browser: repositori APT</title>
+<style>
+  :root { color-scheme: light dark; --latar: #faf8f5; --teks: #2b2622; --kotak: #efe9e2; }
+  @media (prefers-color-scheme: dark) { :root { --latar: #1c1a18; --teks: #ece6df; --kotak: #2b2723; } }
+  body { margin: 0; background: var(--latar); color: var(--teks); font: 17px/1.6 system-ui, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 2rem 16px 3rem; }
+  pre { background: var(--kotak); padding: 0.8rem 1rem; border-radius: 0.5rem; overflow-x: auto; font-size: 0.85rem; }
+  code { font-size: 0.9em; }
+</style>
+</head>
+<body>
+<main>
+<h1>Kevin Browser</h1>
+<p>Peramban web ringan untuk Linux dengan RAM kecil: tab tidur, pemblokir iklan
+dan pelacak, dan mesin pencari Google.</p>
+<p>Kode sumbernya terbuka (lisensi MIT), untuk siapa saja yang ingin memeriksa
+apa yang dipasang di laptopnya atau ikut mengembangkan:
+<a href="https://github.com/gandensang/kevin-browser">github.com/gandensang/kevin-browser</a>.</p>
+
+<h2>Memasang</h2>
+<p>Untuk Linux Mint 22 atau Ubuntu 24.04 ke atas, 64-bit. Jalankan di terminal:</p>
+<pre>sudo wget -qO /usr/share/keyrings/kevin-browser.gpg https://gandensang.github.io/kevin-browser-apt/kevin-browser.gpg
+sudo wget -qO /etc/apt/sources.list.d/kevin-browser.sources https://gandensang.github.io/kevin-browser-apt/kevin-browser.sources
+sudo apt update
+sudo apt install kevin-browser</pre>
+<p>Setelah itu Kevin Browser ada di menu, dan bisa dibuka dari terminal dengan
+<code>kevin-browser</code> atau <code>kevin-browser detik.com</code>. Versi baru
+datang lewat Update Manager, bersama pembaruan lain.</p>
+
+<h2>Melepas</h2>
+<pre>sudo apt purge kevin-browser</pre>
+</main>
+</body>
+</html>
