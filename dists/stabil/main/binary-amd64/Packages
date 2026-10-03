@@ -19,3 +19,24 @@ Description: peramban web ringan untuk laptop ber-RAM kecil
  seminim mungkin: tab tidur, pemblokir iklan dan pelacak, dan beranda
  berisi kisah serta panduan Kevin Browser.
 
+Package: kevin-browser
+Architecture: amd64
+Version: 0.1.5
+Priority: optional
+Section: web
+Maintainer: gandensang <4019894+gandensang@users.noreply.github.com>
+Installed-Size: 5368
+Depends: libc6 (>= 2.34), libgtk-4-1 (>= 4.14), libwebkitgtk-6.0-4 (>= 2.44)
+Recommends: gstreamer1.0-libav, gstreamer1.0-plugins-bad, va-driver-all, libva-drm2, poppler-utils
+Filename: pool/main/k/kevin-browser/kevin-browser_0.1.5_amd64.deb
+Size: 1856384
+MD5sum: c9d3e8976adfa92685240604dfd44611
+SHA1: 2e8f3cc814c12a72a08a503f88a1b555b364d496
+SHA256: 57a0e43ec8bba48744f917baf3b991bc84c19265d257308fe5236c6a795c93be
+SHA512: 3c1eaf0bf9c93bedaff6ae60f252a88fb679ee5a4ada53ae40dcb5382eb81be3fd29ea99f00dd1660a5f8ac7ab59440de1ef89be57df0286bfc796462468e3b7
+Homepage: https://github.com/gandensang/kevin-browser
+Description: peramban web ringan untuk laptop ber-RAM kecil
+ Membuka web modern (JavaScript, YouTube, Google Docs) dengan memori
+ seminim mungkin: tab tidur, pemblokir iklan dan pelacak, dan beranda
+ berisi kisah serta panduan Kevin Browser.
+
