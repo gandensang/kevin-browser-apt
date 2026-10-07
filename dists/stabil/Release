@@ -1,19 +1,19 @@
 Architectures: amd64
 Codename: stabil
 Components: main
-Date: Sat, 03 Oct 2026 13:44:48 +0000
+Date: Wed, 07 Oct 2026 09:15:38 +0000
 Label: Kevin Browser
 Origin: Kevin Browser
 Suite: stabil
 MD5Sum:
- 74f3dd879c53458b9829c65fa0dd4df2             2047 main/binary-amd64/Packages
- ec4084c75f840bbf99aeb6321bece0cf              899 main/binary-amd64/Packages.gz
+ cd45f3b5a69fb1392e3bcb8184f02d72             2062 main/binary-amd64/Packages
+ 326857bd553c3ef60fdcbe74f6828b2e              896 main/binary-amd64/Packages.gz
 SHA1:
- 489c1756cb68c2d1f581b5a7df63c5c9d90cb688             2047 main/binary-amd64/Packages
- d4c8754305bd63936b0aa3c7a63781d6d9b4c1f9              899 main/binary-amd64/Packages.gz
+ c618df24b43d400f0385c30c3024e5830cdb1da2             2062 main/binary-amd64/Packages
+ 26d8b7ac11a39cf563d8cd9fdcb2088fed6b7415              896 main/binary-amd64/Packages.gz
 SHA256:
- 32274503e5ff09b0548be5898365e5e0f838f76c5bb88a07dcccdda8c4057b29             2047 main/binary-amd64/Packages
- 11ce4de8bef3275f0716427037e69f6b09894190c07dbe53309e755f9d9d0be9              899 main/binary-amd64/Packages.gz
+ 8154232b11a59ea3551272aaa90a7fdc4e1ac16f7f8b1d616fceed1738ad1d79             2062 main/binary-amd64/Packages
+ a8ee654307c152ff3ee62e5e5d63f72e4047dd6d5729ed33152b0eed0abd6799              896 main/binary-amd64/Packages.gz
 SHA512:
- 7c0d69973e660dd84b1e8dc80403ad5b97cee9a5e90d5916112137d869ffbda5004c8f90abc37a68699b106738a74ce44ad39e448c8c48e64109b459bb2e794d             2047 main/binary-amd64/Packages
- bb69394d93b0baade23c64b73d068132824fbf1373aef516fdaf5baab7d52dd36f991e2c1dd053d75eab838f053db80d465d383d2f4f09e3121db0e257b37af7              899 main/binary-amd64/Packages.gz
+ 4f1a1f7a90634ccd5cc7e6563454d892e14d980051eedb2acf7fa36e345f6f9ea4064535239da27caf88148975833eccaa1ed3d7d5b744255545eebf7ff87b0c             2062 main/binary-amd64/Packages
+ 9f4dd839567d28d40bbcfcc05361694d0a83f16652491df7dd0ebf1856584a88cc94f86b9019de344c80016b0a3ad15c93fd6c7bd2fb7e893f645674e080b0fc              896 main/binary-amd64/Packages.gz
