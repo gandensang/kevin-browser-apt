@@ -1,26 +1,5 @@
 Package: kevin-browser
 Architecture: amd64
-Version: 0.1.5
-Priority: optional
-Section: web
-Maintainer: gandensang <4019894+gandensang@users.noreply.github.com>
-Installed-Size: 5368
-Depends: libc6 (>= 2.34), libgtk-4-1 (>= 4.14), libwebkitgtk-6.0-4 (>= 2.44)
-Recommends: gstreamer1.0-libav, gstreamer1.0-plugins-bad, va-driver-all, libva-drm2, poppler-utils
-Filename: pool/main/k/kevin-browser/kevin-browser_0.1.5_amd64.deb
-Size: 1856384
-MD5sum: c9d3e8976adfa92685240604dfd44611
-SHA1: 2e8f3cc814c12a72a08a503f88a1b555b364d496
-SHA256: 57a0e43ec8bba48744f917baf3b991bc84c19265d257308fe5236c6a795c93be
-SHA512: 3c1eaf0bf9c93bedaff6ae60f252a88fb679ee5a4ada53ae40dcb5382eb81be3fd29ea99f00dd1660a5f8ac7ab59440de1ef89be57df0286bfc796462468e3b7
-Homepage: https://github.com/gandensang/kevin-browser
-Description: peramban web ringan untuk laptop ber-RAM kecil
- Membuka web modern (JavaScript, YouTube, Google Docs) dengan memori
- seminim mungkin: tab tidur, pemblokir iklan dan pelacak, dan beranda
- berisi kisah serta panduan Kevin Browser.
-
-Package: kevin-browser
-Architecture: amd64
 Version: 0.1.6
 Priority: optional
 Section: web
@@ -34,6 +13,27 @@ MD5sum: 0cc4324247df221ae710b383ec3edce7
 SHA1: ea53e9121934ece8aa770e2f55e0bf9b1ec8497a
 SHA256: 5923e5730a7033caf8cc15810fd82a80e1805ab22363085572e728e0c27157aa
 SHA512: cd13e3a848821090699fb81e66c96ee77d83666043dbde7f1a4d378f4155313384fab76a086a3503b191c88ee3b243be2c41500f1231671897e388d8b778ece1
+Homepage: https://github.com/gandensang/kevin-browser
+Description: peramban web ringan untuk laptop ber-RAM kecil
+ Membuka web modern (JavaScript, YouTube, Google Docs) dengan memori
+ seminim mungkin: tab tidur, pemblokir iklan dan pelacak, dan beranda
+ berisi kisah serta panduan Kevin Browser.
+
+Package: kevin-browser
+Architecture: amd64
+Version: 0.1.7
+Priority: optional
+Section: web
+Maintainer: gandensang <4019894+gandensang@users.noreply.github.com>
+Installed-Size: 6204
+Depends: libc6 (>= 2.34), libgtk-4-1 (>= 4.14), libwebkitgtk-6.0-4 (>= 2.44)
+Recommends: gstreamer1.0-libav, gstreamer1.0-plugins-bad, va-driver-all, libva-drm2, poppler-utils
+Filename: pool/main/k/kevin-browser/kevin-browser_0.1.7_amd64.deb
+Size: 2147204
+MD5sum: aefc818a924e6c937b348369e7502dc0
+SHA1: c07fe681b9c804a37c4c9fdd63d19e94a2046537
+SHA256: 0bfdab3caa08efa957ba43054d5fcd13935ccbb7e20c62091b028eaacf383a69
+SHA512: f3e675e5987dae6fd53aafc1919cbca8b1e631db3beae13d93a6012dce0155254de954a8d0a1075b8f96728b172bb62950a6eaebd54eae42a0e2b5f6139c062f
 Homepage: https://github.com/gandensang/kevin-browser
 Description: peramban web ringan untuk laptop ber-RAM kecil
  Membuka web modern (JavaScript, YouTube, Google Docs) dengan memori

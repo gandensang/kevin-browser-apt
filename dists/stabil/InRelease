@@ -4,35 +4,35 @@ Hash: SHA512
 Architectures: amd64
 Codename: stabil
 Components: main
-Date: Wed, 07 Oct 2026 09:15:38 +0000
+Date: Wed, 07 Oct 2026 17:15:26 +0000
 Label: Kevin Browser
 Origin: Kevin Browser
 Suite: stabil
 MD5Sum:
- cd45f3b5a69fb1392e3bcb8184f02d72             2062 main/binary-amd64/Packages
- 326857bd553c3ef60fdcbe74f6828b2e              896 main/binary-amd64/Packages.gz
+ 4e302342b156432482ee3165dbdc55e0             2062 main/binary-amd64/Packages
+ ef154d7ecd5f81fc430783fb6dbb106d              897 main/binary-amd64/Packages.gz
 SHA1:
- c618df24b43d400f0385c30c3024e5830cdb1da2             2062 main/binary-amd64/Packages
- 26d8b7ac11a39cf563d8cd9fdcb2088fed6b7415              896 main/binary-amd64/Packages.gz
+ 56d6f93d19df84de51c6d4acd1a1e6542794b7fb             2062 main/binary-amd64/Packages
+ 63b8f714172125adb4b40e7effce6279163e87cf              897 main/binary-amd64/Packages.gz
 SHA256:
- 8154232b11a59ea3551272aaa90a7fdc4e1ac16f7f8b1d616fceed1738ad1d79             2062 main/binary-amd64/Packages
- a8ee654307c152ff3ee62e5e5d63f72e4047dd6d5729ed33152b0eed0abd6799              896 main/binary-amd64/Packages.gz
+ 3157269a3154435784e069ae524084541531abc6e5ea18b7fca73d0e805ab91b             2062 main/binary-amd64/Packages
+ c573c3dce61dc050aae6a39238e3cd1fbebecc4e1e7c52e6dc9c73f30234fc0c              897 main/binary-amd64/Packages.gz
 SHA512:
- 4f1a1f7a90634ccd5cc7e6563454d892e14d980051eedb2acf7fa36e345f6f9ea4064535239da27caf88148975833eccaa1ed3d7d5b744255545eebf7ff87b0c             2062 main/binary-amd64/Packages
- 9f4dd839567d28d40bbcfcc05361694d0a83f16652491df7dd0ebf1856584a88cc94f86b9019de344c80016b0a3ad15c93fd6c7bd2fb7e893f645674e080b0fc              896 main/binary-amd64/Packages.gz
+ cea3ddd60754fd63ebffd812d1aea990037ef11a309ef7b89f29b0295f41c656433b16a13d6e4dea40c17c85c8d24e6edf3af4a9e1797a7b8c359222a6072525             2062 main/binary-amd64/Packages
+ 39c6e4e1e53812fbc06ba4bd2c232b959d644668d3da2e5449d8b70195ea8eb8ed252543fa35d130243d29f91cbabcc018fd533b07c9a96fe03713ca752c9a58              897 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEESM5+Xmk3wOz4cNF/aI4J6OuQsaUFAmrGDboACgkQaI4J6OuQ
-saXmIBAAyovp1oNbVVbFfyWxDIL5nYlV0j9A2Ssw6LoxHOShPb4R4zqvsEgfroNL
-db70jXRucH8V0nI7bMfXTammMyCr9jYHFe4n4HAPxrTSmJHmKEwkPC3WQX+N5vaS
-ic375inlfnfe9wCXl/0NxelHmfESFhhuYm8F1sbeTFhmp10thp34odk37RfmGWQo
-ulWFoxc2hWWPDg/KfIhR8gnSUWmAol0Hs9V/6xGt38wPLf1Qvqv1vS1t9o7qirys
-ndx+XtaOzcTNH76wgFa4C20TyLuehLJAhXYLzWLxZzCiAmYRXbZiZKqRuJcbxXxF
-ryNHtetX4TmkXeZ7vJH+EO2mQKxgSDVr2FsAw/uXMJsArkZEW5XW60LlFGRAq8sH
-GyITA58oKBo3Jr7bwdN+K9t7EqigdYdmwA4B5KP7no9lc4oYHeUf7z76oT8tmlpP
-fDidXiPcysNzhsha/w4JpBKurZdnBMIfdfDCR/hsTkzuJheQmqEdjN4DkW6IbQ/n
-VQnQueA4rhQldXt8C6UzuSn6/np3p/ipFfQfGJfgw7+ZVWT+xrH/d3pAnHKrgaEd
-OPPwb/AUKuosuuD68/WBUBDuGS4FrXTE51oyYiNl7TS5Z27Lh/Bd2VgmMnJH9Pv+
-P5UWfdRjP20LThOq+qaX96RL0Mzfz5Lps/U53Pzpl4PBbrwC/pM=
-=LMke
+iQIzBAEBCgAdFiEESM5+Xmk3wOz4cNF/aI4J6OuQsaUFAmrGfi4ACgkQaI4J6OuQ
+saWPqQ//ZStVg6nAmQ8m7G3d+FARq64P/+TS9T9wZ+MhEEjwfYPCVgMCy7Lx3UpF
+BgB2DGb7mO8m2YDM7UxDH7kqLnK4n2xZiUa7QR7yNJCu9e5IelVyYt+bCTdfLxGJ
+faXbpYjSrX4XO+ne0KCuGP7ZO98yKBeykYtzihbWP64ouK+Uav4okS3Af2nLnKF+
+g4u4yuWcNm4zcwy96KbGHW5/WkL4YY1z4g2+ijJSIpyL3eMewGR+zReNTMnHM689
+aZNYM0+vw17wkPies2xwIPO/Q4vi6/jNOIb2/38s/Eu6uE7KQ0v1E/2y83U1KoqO
+u1hHOgrhqBruhNhTPoEHDLolR4OODGkr32immc7M3+fM/7DLeBcEFfDEQyc4DoY3
+tk+zVg7XTgf6jm5Lqp1OUKDjrujd5A8Zuute619p7ZHqh4FrYnl+u44//vfmPSVq
+8HNl0DRR02byqa3EDAINzscdyOcBgKR3w4bYTsIyXaGJhF0IZNUciX0iHsAVVzFh
+Vtq3GmAHWvP15PeGD/sbm6t0ckd1fVnuBBx4YeuZmj13EigDs6nMexR+iYS7PiVN
+ZRja7xro1VVm30crRRBkt0T9obi90aQkVEh74QWBDO6XmH4bzW+bLzXVB2KLEJm/
+9V3U9GoDLVyXQ/RnDegHLkWfHUvpnqpgQe//PydzsSf4MgbAZHc=
+=o4il
 -----END PGP SIGNATURE-----
